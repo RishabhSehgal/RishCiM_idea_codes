@@ -1,0 +1,206 @@
+input is: 01110100
+filter is: 1101
+bit is: 7
+res_f: 0
+input is: 11110110
+filter is: 0010
+bit is: 7
+res_f: 0
+input is: 01010001
+filter is: 1100
+bit is: 7
+res_f: 12
+input is: 01011010
+filter is: 0111
+bit is: 7
+res_f: 0
+input is: 10100110
+filter is: 1010
+bit is: 7
+res_f: 0
+input is: 10100010
+filter is: 0010
+bit is: 7
+res_f: 0
+input is: 01010001
+filter is: 0110
+bit is: 7
+res_f: 6
+input is: 11111000
+filter is: 0011
+bit is: 7
+res_f: 0
+input is: 00111000
+filter is: 1011
+bit is: 7
+res_f: 0
+input is: 01010000
+filter is: 1111
+bit is: 7
+res_f: 0
+input is: 01110100
+filter is: 0110
+bit is: 7
+res_f: 0
+input is: 10110100
+filter is: 0001
+bit is: 7
+res_f: 0
+input is: 00011010
+filter is: 0101
+bit is: 7
+res_f: 0
+input is: 11000110
+filter is: 1101
+bit is: 7
+res_f: 0
+input is: 11001111
+filter is: 0110
+bit is: 7
+res_f: 6
+input is: 11010000
+filter is: 0010
+bit is: 7
+res_f: 0
+input is: 01110100
+filter is: 1110
+bit is: 7
+res_f: 0
+input is: 00000010
+filter is: 1111
+bit is: 7
+res_f: 0
+input is: 11100100
+filter is: 1011
+bit is: 7
+res_f: 0
+input is: 01001010
+filter is: 0011
+bit is: 7
+res_f: 0
+input is: 00100100
+filter is: 0011
+bit is: 7
+res_f: 0
+input is: 00110101
+filter is: 1001
+bit is: 7
+res_f: 9
+input is: 00100000
+filter is: 1000
+bit is: 7
+res_f: 0
+input is: 11110100
+filter is: 1001
+bit is: 7
+res_f: 0
+input is: 11001110
+filter is: 1001
+bit is: 7
+res_f: 0
+this is partial sum: 1
+1
+0001
+input is: 01110100
+filter is: 1101
+bit is: 6
+res_f: 0
+input is: 11110110
+filter is: 0010
+bit is: 6
+res_f: 2
+input is: 01010001
+filter is: 1100
+bit is: 6
+res_f: 0
+input is: 01011010
+filter is: 0111
+bit is: 6
+res_f: 7
+input is: 10100110
+filter is: 1010
+bit is: 6
+res_f: 10
+input is: 10100010
+filter is: 0010
+bit is: 6
+res_f: 2
+input is: 01010001
+filter is: 0110
+bit is: 6
+res_f: 0
+input is: 11111000
+filter is: 0011
+bit is: 6
+res_f: 0
+input is: 00111000
+filter is: 1011
+bit is: 6
+res_f: 0
+input is: 01010000
+filter is: 1111
+bit is: 6
+res_f: 0
+input is: 01110100
+filter is: 0110
+bit is: 6
+res_f: 0
+input is: 10110100
+filter is: 0001
+bit is: 6
+res_f: 0
+input is: 00011010
+filter is: 0101
+bit is: 6
+res_f: 5
+input is: 11000110
+filter is: 1101
+bit is: 6
+res_f: 13
+input is: 11001111
+filter is: 0110
+bit is: 6
+res_f: 6
+input is: 11010000
+filter is: 0010
+bit is: 6
+res_f: 0
+input is: 01110100
+filter is: 1110
+bit is: 6
+res_f: 0
+input is: 00000010
+filter is: 1111
+bit is: 6
+res_f: 15
+input is: 11100100
+filter is: 1011
+bit is: 6
+res_f: 0
+input is: 01001010
+filter is: 0011
+bit is: 6
+res_f: 3
+input is: 00100100
+filter is: 0011
+bit is: 6
+res_f: 0
+input is: 00110101
+filter is: 1001
+bit is: 6
+res_f: 0
+input is: 00100000
+filter is: 1000
+bit is: 6
+res_f: 0
+input is: 11110100
+filter is: 1001
+bit is: 6
+res_f: 0
+input is: 11001110
+filter is: 1001
+bit is: 6
+res_f: 9
+this is partial sum: 2
+10
+00100
